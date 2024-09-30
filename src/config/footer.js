@@ -1,18 +1,13 @@
 export const footerSocials = [
   {
     name: 'Twitter',
-    url: 'https://twitter.com/jaydanurwin',
+    url: 'https://x.com/lemonproduction',
     icon: "mdi:twitter",
   },
   {
     name: 'Youtube',
-    url: 'https://youtube.com/@jaydanurwin',
+    url: 'https://www.youtube.com/@LemonPodcasting',
     icon: "mdi:youtube",
-  },
-  {
-    name: 'Github',
-    url: 'https://github.com/jaydanurwin',
-    icon: "mdi:github",
   },
   {
     name: 'Discord',
